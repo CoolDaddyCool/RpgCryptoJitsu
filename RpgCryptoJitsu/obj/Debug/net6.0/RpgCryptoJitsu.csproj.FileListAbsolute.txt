@@ -1,0 +1,17 @@
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\RpgCryptoJitsu.exe
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\RpgCryptoJitsu.deps.json
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\RpgCryptoJitsu.runtimeconfig.json
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\RpgCryptoJitsu.dll
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\RpgCryptoJitsu.pdb
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.csproj.AssemblyReference.cache
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.AssemblyInfoInputs.cache
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.AssemblyInfo.cs
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.csproj.CoreCompileInputs.cache
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.dll
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\refint\RpgCryptoJitsu.dll
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.pdb
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.genruntimeconfig.cache
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\ref\RpgCryptoJitsu.dll
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\franczakp\OneDrive - FUJITSU\Documents\VS\Console\RpgCryptoJitsu\RpgCryptoJitsu\obj\Debug\net6.0\RpgCryptoJitsu.csproj.CopyComplete

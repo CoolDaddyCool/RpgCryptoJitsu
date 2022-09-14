@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NwNp/0Elq7Mmxh6dCt+gl+PkN6y8+QkHu1mZOEYEmVTjLG7sofYoaybLbLeV3JqTl7gRaSlRXQYWO/N2cgGSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franczakp\\OneDrive - FUJITSU\\Documents\\VS\\Console\\RpgCryptoJitsu\\RpgCryptoJitsu\\RpgCryptoJitsu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franczakp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

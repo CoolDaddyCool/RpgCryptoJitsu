@@ -1,0 +1,9 @@
+{
+  "Id":  1,
+  "Title": "The Duke's Chalise.",
+  "Description": "This is the starter adventure, have fun.",
+  "XpRewords": 250,
+  "GoldReword": 100,
+  "MinLevel": 1,
+  "MaxLevel": 1
+}
